@@ -43,6 +43,7 @@ export const ListItem = styled.div`
       color: ${style["font-color-light"]};
       .play {
         vertical-align: top;
+        font-size: 10px;
       }
     }
     img {
